@@ -47,7 +47,7 @@ local user_opts = {
 -- Localization
 local language = {
     ['eng'] = {
-        welcome = '{\\fs24\\1c&H0&\\3c&HFFFFFF&}Drop files or URLs to play here.',  -- this text appears when mpv starts
+        welcome = '{\\fs24\\1c&HFFFFFF&}Drop files or URLs to play here.',  -- this text appears when mpv starts
         off = 'OFF',
         na = 'n/a',
         none = 'none',
